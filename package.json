@@ -1,5 +1,5 @@
 {
-  "name": "cjsx gulp template",
+  "name": "gulp-cjsx-template",
   "version": "0.0.0",
   "description": "front end to track which food trucks are in the neighborhood",
   "main": "index.js",
